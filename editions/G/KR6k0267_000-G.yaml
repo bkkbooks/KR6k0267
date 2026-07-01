@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0267/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律含註戒本科
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2252.xml
+    old_id: G104n2252
+hash: sha256:6098781f35e3bf8ecee1816938981c49b5917b915eda3863b62f86352c83a3ce
