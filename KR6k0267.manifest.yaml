@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0267_000.yaml, hash: 'sha256:6098781f35e3bf8ecee1816938981c49b5917b915eda3863b62f86352c83a3ce'}
-  - {seq: 1, filename: KR6k0267_001.yaml, hash: 'sha256:411e521da26289dd86989af24f9d79d25d71aa6a4aefd255f8ba109091a732ba'}
+  - {seq: 1, filename: KR6k0267_001.yaml, hash: 'sha256:07af9676f6f0e7f0ad1a5ebd9dfc632b7467337ca97f5905e835c3c686766d23'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0267_001.markers.yaml, hash: 'sha256:201e76771e43fcbd6f2d1a8c2d1da19531029966c6988c571813fda2e1a666a7'}
+  - {seq: 0, role: markers, filename: assets/KR6k0267_000.markers.yaml, hash: 'sha256:f84667d05346677a5e87be34e33cf060ee31829f85c5978059e23d4ec6f78225'}
+  - {seq: 1, role: markers, filename: assets/KR6k0267_001.markers.yaml, hash: 'sha256:f228f363e50c6bac95bc426af03f2505e0c1b6afd849ab8d3598e80c8b08b418'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 四分律含註戒本科（依疏及記擷錄）
   type: juan
   level: 1
-hash: sha256:5f33728747199a148bdc64ac39afc2411dfe5f781d68abf220b5783b5183ac47
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:236527181c0d3012e30228ed56538902995916b3e8ceae29bc25cb7a7b18f59f
 editions:
 - short: G
