@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0267/v1
 canonical_location: https://kanripo.org/bkk/KR6k0267/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 四分律含註戒本科
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0267_000.yaml, hash: 'sha256:6098781f35e3bf8ecee1816938981c49b5917b915eda3863b62f86352c83a3ce'}
-  - {seq: 1, filename: KR6k0267_001.yaml, hash: 'sha256:07af9676f6f0e7f0ad1a5ebd9dfc632b7467337ca97f5905e835c3c686766d23'}
+  - {seq: 1, filename: KR6k0267_001.yaml, hash: 'sha256:d0923f7292c1cf279d92b81e7404ff94635a90ee927ed1644e18930e954cb0ac'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0267_000.markers.yaml, hash: 'sha256:f84667d05346677a5e87be34e33cf060ee31829f85c5978059e23d4ec6f78225'}
-  - {seq: 1, role: markers, filename: assets/KR6k0267_001.markers.yaml, hash: 'sha256:f228f363e50c6bac95bc426af03f2505e0c1b6afd849ab8d3598e80c8b08b418'}
+  - {seq: 1, role: markers, filename: assets/KR6k0267_001.markers.yaml, hash: 'sha256:99fc6d93c9ef02b9521e2211354b7bc4592c8ae41322924692ae1a93fe83902b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -29,6 +29,9 @@ table_of_contents:
   label: 四分律含註戒本科（依疏及記擷錄）
   type: juan
   level: 1
-hash: sha256:236527181c0d3012e30228ed56538902995916b3e8ceae29bc25cb7a7b18f59f
+hash: sha256:71ddcb3db6dea8c7f4a56c50a9afc339899fb7a6d06fef90aac2d8ff4acd7c74
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
